@@ -1,16 +1,37 @@
-### Hi there 👋
+![Header](https://github.com/alvaro-alvarez-glez/icons/blob/main/bakground.jpg "Header")
 
-<!--
-**alvaro-alvarez-glez/alvaro-alvarez-glez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, there! 👋
 
-Here are some ideas to get you started:
+## :briefcase: Ing. Industrial | Especialista en métodos estadísticos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 En busqueda de empleo 
+
+🌱 Aprendiendo BI Apps, CRM, Python
+
+:dart: Metas 2021 :
+
+Lograr certificación en:
+
+- [ ] Power BI
+- [ ] Salesforce Cloud Marketing
+
+## :mailbox_with_no_mail: Encuentrame en:
+[![Trailhead][1.2]][1]    [![Linkedin][2.2]][2]
+
+<!-- Icons -->
+[1.2]: https://github.com/alvaro-alvarez-glez/icons/blob/main/salesforce.png
+[2.2]: https://github.com/alvaro-alvarez-glez/icons/blob/main/linkedin.png
+
+<!-- Links to your social media accounts -->
+[1]: https://trailblazer.me/id/alvaroez
+[2]: https://linkedin.com/in/alvaro-alvarez-glez
+
+## :wrench: Lenguajes y herramientas:
+- Excel Avanzado
+- Power BI
+- Python: Pandas | Matplotlib
+
+## :vertical_traffic_light: GitHub Actividad
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaro-alvarez-glez&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro-alvarez-glez)](https://github.com/anuraghazra/github-readme-stats)
