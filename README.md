@@ -14,6 +14,7 @@ Lograr certificación en:
 
 - [ ] Power BI
 - [ ] Salesforce Cloud Marketing
+- [ ] Associate Google Cloud Platform
 
 ## :mailbox_with_no_mail: Encuentrame en:
 [![Trailhead][1.2]][1]    [![Linkedin][2.2]][2]
