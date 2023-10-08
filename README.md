@@ -1,20 +1,13 @@
 ![Header](https://github.com/alvaro-alvarez-glez/icons/blob/main/bakground.jpg "Header")
 
-### Hi, there! 👋
+### Larga vida y prosperidad :vulcan_salute:
 
-## :briefcase: Ing. Industrial | Especialista en métodos estadísticos
+## :man_technologist::briefcase: Especialista en métodos estadísticos | Data engineer | Cloud engineer | Data analyst
 
-🔭 En busqueda de empleo 
+🌱 Desarrollando en la nube
 
-🌱 Aprendiendo BI Apps, CRM, Python
-
-:dart: Metas 2021 :
-
-Lograr certificación en:
-
-- [ ] Power BI
-- [ ] Salesforce Cloud Marketing
-- [ ] Associate Google Cloud Platform
+:dart: Logros 2023 :
+- [x] Associate Google Cloud Platform
 
 ## :mailbox_with_no_mail: Encuentrame en:
 [![Trailhead][1.2]][1]    [![Linkedin][2.2]][2]
@@ -28,9 +21,8 @@ Lograr certificación en:
 [2]: https://linkedin.com/in/alvaro-alvarez-glez
 
 ## :wrench: Lenguajes y herramientas:
-- Excel Avanzado
-- Power BI
-- Python: Pandas | Matplotlib
+- Python
+- GCP
 
 ## :vertical_traffic_light: GitHub Actividad
 
