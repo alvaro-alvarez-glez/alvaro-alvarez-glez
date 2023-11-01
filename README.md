@@ -23,6 +23,8 @@
 ## :wrench: Lenguajes y herramientas:
 - Python
 - GCP
+- Dataform
+- Looker
 
 ## :vertical_traffic_light: GitHub Actividad
 
