@@ -2,12 +2,15 @@
 
 ### Larga vida y prosperidad :vulcan_salute:
 
-## :man_technologist::briefcase: Especialista en métodos estadísticos | Data engineer | Cloud engineer | Data analyst
+## :man_technologist::briefcase: Data engineer | Cloud engineer (AWS x 1|GCP x 2) | Data analyst | Statistician
 
 🌱 Desarrollando en la nube
 
 🎯: Logros 2023 :
-- [x] Associate Google Cloud Platform
+- [x] Associate Cloud Enginner - Google Cloud Platform
+
+🎯: Logros 2024 :
+- [x] Professional Data Enginner - Google Cloud Platform
 
 [comment]: < ## 📬: Encuentrame en: >
 [comment]: < [![Linkedin][2.2]][2] >
@@ -35,6 +38,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%232F3E.svg?style=flat&logo=amazonwebservices&logoColor=black&color=yellow)
 
 ![Alteryx](https://img.shields.io/badge/alteryx-0078C0?style=flat&logo=alteryx&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black)
